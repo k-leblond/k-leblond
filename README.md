@@ -4,11 +4,11 @@
 
 **Passionate** French :fr: fullstack developper straight out Le Wagon :rocket:
 
-:telescope: Currently looking for my 1st experience :tada:
+:telescope: Currently looking for my **1st experience** :tada:
 
 :mailbox: Reach me @ **ka.leblond@gmail.com**
 
-[LinkedIn](https://www.linkedin.com/in/kevin-leblond-b1421650/)
+:link: [LinkedIn](https://www.linkedin.com/in/kevin-leblond-b1421650/)
 
 <!--
 **k-leblond/k-leblond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
